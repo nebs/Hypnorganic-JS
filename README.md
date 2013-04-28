@@ -1,5 +1,5 @@
-hypnorganic
-===========
+Hypnorganic-JS
+==============
 
 Life-inspired randomly generated visual effect written in JS/Canvas
 
